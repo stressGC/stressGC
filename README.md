@@ -1,8 +1,10 @@
 ### Hey! I'm Georges
 
+<img src="https://raw.githubusercontent.com/stressGC/stressGC/master/assets/banner_github.png" />
+
 🔭 I’m currently working as TypeScript Fullstack Developer for <a href="https://phantombuster.com">
-  Phantombuster
-  <img alt="Phantombuster" width="20px" src="https://blogdummi.fr/wp-content/uploads/2019/03/favicon-phantombuster.png" />
+	Phantombuster
+	<img alt="Phantombuster" width="20px" src="https://blogdummi.fr/wp-content/uploads/2019/03/favicon-phantombuster.png" />
 </a>, which is an amazing tool to grow any business faster.
 
 **🛠️I'm passionate about these languages and tools:**
