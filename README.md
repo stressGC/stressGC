@@ -1,6 +1,6 @@
 ### Hey! I'm Georges
 
-<img src="https://raw.githubusercontent.com/stressGC/stressGC/master/assets/banner_github.png" />
+<img src="https://raw.githubusercontent.com/stressGC/stressGC/master/assets/banner.png" />
 
 🔭 I’m currently working as TypeScript Fullstack Developer for <a href="https://phantombuster.com">
 	Phantombuster
