@@ -15,6 +15,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <!-- use my own images, add gatsby / react-native / python / ML?, remove JS -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stressgc&layout=compact)](https://github.com/stressgc)
+
 <br/>
 
 **📫 How to reach me:**
