@@ -31,6 +31,6 @@
 
 ---
 
-[![StressGC's github stats](https://github-readme-stats.vercel.app/api?username=stressgc&count_private=true&show_icons=true&hide_title=true&hide_rank=true&hide=issues)](https://github.com/stressgc/github-readme-stats)
+[![StressGC's github stats](https://github-readme-stats.vercel.app/api?username=stressgc&count_private=true&show_icons=true&hide_title=true&hide=issues,prs&text_color=1e2935&icon_color=719ccb)](https://github.com/stressgc/github-readme-stats)
 
 ✨ This README is highly inspired by [anuraghazra](https://github.com/anuraghazra/anuraghazra)'s amazing work.
