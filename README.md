@@ -1,21 +1,8 @@
-<img src="https://raw.githubusercontent.com/stressGC/stressGC/master/assets/Georges_Cosson.png" />
-
 ### Hey! I'm Georges
 
-🔭 I’m currently working as a Lead Software Engineer for <a href="https://phantombuster.com">
-	Phantombuster
-	<img alt="Phantombuster" width="20px" src="https://blogdummi.fr/wp-content/uploads/2019/03/favicon-phantombuster.png" />
-</a>, which is an amazing tool to grow any business faster.
-
-**🛠️I'm passionate about these languages and tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<!-- use my own images, add gatsby / react-native / python / ML?, remove JS -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stressgc&layout=compact)](https://github.com/stressGC?tab=repositories)
+🔭 I’m currently leading the lead management squad working as Lead Staff Software Engineer for <a href="https://phantombuster.com">
+	PhantomBuster
+</a>
 
 <br/>
 
@@ -31,8 +18,3 @@
 	<img alt="Georges Cosson | GitHub" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" />
 </a>
 
----
-
-[![StressGC's github stats](https://github-readme-stats.vercel.app/api?username=stressgc&count_private=true&show_icons=true&hide_title=true&hide=issues,prs&text_color=1e2935&icon_color=719ccb)](https://github.com/stressGC?tab=repositories)
-
-✨ This README is highly inspired by [anuraghazra](https://github.com/anuraghazra/anuraghazra)'s amazing work.
