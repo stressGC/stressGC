@@ -1,20 +1,28 @@
-### Hey! I'm Georges
+### Hello! I'm Georges Cosson
 
-🔭 I’m currently leading the lead management squad working as Lead Staff Software Engineer for <a href="https://phantombuster.com">
-	PhantomBuster
+**A seasoned Lead Product Engineer with a fervor for architecturing and building innovative, user-centric
+software solutions.**
+
+In my current role as a Staff Lead Software Engineer at <a href="https://phantombuster.com" target="_blank">
+PhantomBuster ↗
+</a>, I lead a product squad in
+building innovative and user-centric software solutions, all while advocating for and implementing
+Software Craftsmanship practices in our day-to-day work.
+
+I am well-versed in various domains including AI, blockchain, and web automation. Having worked in
+French and English-speaking environments, I am adept at collaborating effectively with diverse,
+global teams in remote-first environments.
+
+Feel free to connect or reach out for a chat. Always interested in sharing experiences and learning from others.
+
+<a href="https://twitter.com/stressgc" target="_blank">
+	Twitter ↗
 </a>
-
-<br/>
-
-**📫 How to reach me:**
-
-<a href="https://twitter.com/stressgc">
-	<img alt="Georges Cosson | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+•
+<a href="https://www.linkedin.com/in/georges-cosson/" target="_blank">
+	LinkedIn ↗
 </a>
-<a href="https://www.linkedin.com/in/georges-cosson/">
-	<img alt="Georges Cosson | LinkedIn" width="21px" src="https://www.unamur.be/etudes/images/picto/linkedin.png/image_preview" />
+•
+<a href="https://georges.dev" target="_blank">
+	Website ↗
 </a>
-<a href="https://https://github.com/stressGC">
-	<img alt="Georges Cosson | GitHub" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" />
-</a>
-
